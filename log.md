@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+<!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -27,4 +27,12 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
+
+### Day 0: Thur June 1, 2017 
+
+**Today's Progress**: Completed HTML + CSS part of Front End development certification from FCC
+
+**Thoughts**: I've done a lot of this before, but adhoc, so it was a good refresher. Also I learned about form element for the first time and keen to learn more how to store the data inputed.
+
+**Link(s) to work**: [Add Font Awesome Icons to our Buttons](https://www.freecodecamp.com/challenges/add-font-awesome-icons-to-our-buttons)
