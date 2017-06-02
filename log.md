@@ -29,10 +29,12 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
 
-### Day 0: Thur June 1, 2017 
+### Day 0: Thurs June 1, 2017
 
-**Today's Progress**: Completed HTML + CSS part of Front End development certification from FCC
+**Today's Progress**: Completed HTML + CSS + Responsive Bootstrap part of Front End development certification from FCC
 
-**Thoughts**: I've done a lot of this before, but adhoc, so it was a good refresher. Also I learned about form element for the first time and keen to learn more how to store the data inputed.
+**Thoughts**: I've done a lot of this before, but adhoc, so it was a good refresher. Also I learned about form element for the first time and keen to learn more how to store the data inputed. That's a big part of the reason why I'm doing this course, to try and implement basic backend coding to be able to store data in prototypes. I've never been good at sticking to commitment with these kinds of challenges - so I'm really hoping this time will be different!
 
-**Link(s) to work**: [Add Font Awesome Icons to our Buttons](https://www.freecodecamp.com/challenges/add-font-awesome-icons-to-our-buttons)
+**Time spent coding**: 3 hours
+
+**Link(s) to work**: [Learn how Script Tags and Document Ready Work](https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work)
