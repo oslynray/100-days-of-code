@@ -38,3 +38,13 @@
 **Time spent coding**: 3 hours
 
 **Link(s) to work**: [Learn how Script Tags and Document Ready Work](https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work)
+
+### Day 1: Fri June 2, 2017
+
+**Today's Progress**: Completed jQuery course
+
+**Thoughts**: Really interesting to learn how easy it is to manipulate html and css using jQuery and all kinds of interactive projects are popping in my mind to try! I'm at the beginning of the first front end development project which is build a tribute page, and I'm hoping to incorpoate some jQuery into it.
+
+**Time spent coding**: 1 hour
+
+**Link(s) to work**: [Build a Tribute Page](https://www.freecodecamp.com/challenges/build-a-tribute-page)
