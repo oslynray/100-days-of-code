@@ -48,3 +48,13 @@
 **Time spent coding**: 1 hour
 
 **Link(s) to work**: [Build a Tribute Page](https://www.freecodecamp.com/challenges/build-a-tribute-page)
+
+### Day 2: Sun June 4, 2017
+
+**Today's Progress**: Designed and experimented for tribute page task
+
+**Thoughts**: So I missed Sat! I think maybe going forward it will be hard to code on Saturdays, so might need to include that in the rules. Today I went to the Summer of Love exhibition at the De Young Museum in San Francisco, and was so inspired that I've decided to do my tribute page on the Summer of Love. I've realised I'm going to frame my 100DaysOfCode to be more of a 100daysofmake because I spent a lot of time designing and researching this tribute page today, and not that much time coding! I did however discover the new css blend mode property, as well as experimented with css patterns and radial gradients.
+
+**Time spent coding**: 1 hour
+
+**Link(s) to work**: [Summer of Love Tribute Page](https://codepen.io/oslynray/pen/NgWRrN)
