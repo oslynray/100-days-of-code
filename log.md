@@ -58,3 +58,13 @@
 **Time spent coding**: 1 hour
 
 **Link(s) to work**: [Summer of Love Tribute Page](https://codepen.io/oslynray/pen/NgWRrN)
+
+### Day 3: Mon June 5, 2017
+
+**Today's Progress**: Continued to build Summer of Love Tribute page and played with css and jQuery
+
+**Thoughts**: Was hard to start working on the project today, but once I got going it was really fun. The difference here is the visual experimentation is done with code and it's very conducive to happy accidents. Had some problems initially with codepen automatically importing bootstrap, and then after looking on the fcc forums realised codepen is using bootstrap 4, and I was using the documentation for bootstrap 3, so I needed to import bootstrap 3. I think tomorrow I will spend some time on illustrator(or sketch?) planning the grid/colors. 
+
+**Time spent coding**: 1.5 hours
+
+**Link(s) to work**: [Summer of Love Tribute Page](https://codepen.io/oslynray/pen/NgWRrN)
